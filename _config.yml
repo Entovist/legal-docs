@@ -1,0 +1,16 @@
+title: Entovist Legal Documents
+description: Terms, privacy information, and data-processing terms for Entovist.
+theme: jekyll-theme-primer
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - node_modules
+  - scripts
+  - package.json
+  - package-lock.json
