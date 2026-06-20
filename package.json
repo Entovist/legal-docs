@@ -1,0 +1,10 @@
+{
+  "name": "entovist-legal-docs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Build tooling for Entovist legal documents",
+  "dependencies": {
+    "marked": "15.0.12",
+    "puppeteer-core": "25.1.0"
+  }
+}

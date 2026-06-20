@@ -2,9 +2,9 @@
 
 This file records changes to the Entovist Data Processing Agreement.
 
-| Version | Effective Date | Last Updated | Description                                                                              |
-| ------- | -------------- | ------------ | ---------------------------------------------------------------------------------------- |
-| [1.0.0](archive/Entovist-DPA-v1.0.0.md) | 2026-06-15 | 2026-06-15 | Initial public release based on Data Processing Agreement Revision 1 dated 15 June 2026. |
+| Version | Effective Date | Last Updated | Markdown | PDF | Description |
+| ------- | -------------- | ------------ | -------- | --- | ----------- |
+| 1.0.0 | 2026-06-15 | 2026-06-15 | [View](archive/Entovist-DPA-v1.0.0.md) | [View](archive/Entovist-DPA-v1.0.0.pdf) | Initial public release based on Data Processing Agreement Revision 1 dated 15 June 2026. |
 
 ## Versioning Policy
 
