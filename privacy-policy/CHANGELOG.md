@@ -2,9 +2,9 @@
 
 This file records changes to the Entovist Privacy Policy.
 
-| Version | Effective Date | Description             |
-| ------- | -------------- | ----------------------- |
-| [1.0.0](archive/Entovist-Privacy-Policy-v1.0.0.md) | 2026-06-15 | Initial public release. |
+| Version | Effective Date | Markdown | PDF | Description |
+| ------- | -------------- | -------- | --- | ----------- |
+| 1.0.0 | 2026-06-15 | [View](archive/Entovist-Privacy-Policy-v1.0.0.md) | [View](archive/Entovist-Privacy-Policy-v1.0.0.pdf) | Initial public release. |
 
 ## Versioning Policy
 
