@@ -7,7 +7,7 @@ This repository contains the legal documents for Entovist, a software product op
 | Document | Markdown | PDF | Changelog |
 | -------- | -------- | --- | --------- |
 | Terms of Service | [Version 1.0.0](terms-of-service/Entovist-Terms-of-Service.md) | [Download](terms-of-service/Entovist-Terms-of-Service.pdf) | [History](terms-of-service/CHANGELOG.md) |
-| Privacy Policy | [Version 1.0.0](privacy-policy/Entovist-Privacy-Policy.md) | [Download](privacy-policy/Entovist-Privacy-Policy.pdf) | [History](privacy-policy/CHANGELOG.md) |
+| Privacy Policy | [Version 1.1.0](privacy-policy/Entovist-Privacy-Policy.md) | [Download](privacy-policy/Entovist-Privacy-Policy.pdf) | [History](privacy-policy/CHANGELOG.md) |
 | Data Processing Agreement | [Version 1.0.0](dpa/Entovist-DPA.md) | [Download](dpa/Entovist-DPA.pdf) | [History](dpa/CHANGELOG.md) |
 
 ## Repository Structure
