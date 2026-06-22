@@ -4,6 +4,7 @@ This file records changes to the Entovist Privacy Policy.
 
 | Version | Effective Date | Markdown | PDF | Description |
 | ------- | -------------- | -------- | --- | ----------- |
+| 1.1.0 | 2026-06-22 | [View](archive/Entovist-Privacy-Policy-v1.1.0.md) | [View](archive/Entovist-Privacy-Policy-v1.1.0.pdf) | Added Cookiebot by Usercentrics consent management, Google Analytics 4, Google Consent Mode v2, prior-consent activation, and consent withdrawal details. |
 | 1.0.0 | 2026-06-15 | [View](archive/Entovist-Privacy-Policy-v1.0.0.md) | [View](archive/Entovist-Privacy-Policy-v1.0.0.pdf) | Initial public release. |
 
 ## Versioning Policy
