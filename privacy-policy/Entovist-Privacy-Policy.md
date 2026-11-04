@@ -1,18 +1,18 @@
 ---
 document_id: ENT-PP
 title: Entovist Privacy Policy
-version: 1.2.0
-effective_date: 2026-06-28
-last_updated: 2026-06-28
+version: 1.3.0
+effective_date: 2026-11-04
+last_updated: 2026-11-04
 owner: Mahdi Ghorban Pour - Digitexia
 status: Current
 ---
 
 # Privacy Policy
 
-**Version:** 1.2.0<br>
-**Effective Date:** 28 June 2026<br>
-**Last Updated:** 28 June 2026
+**Version:** 1.3.0<br>
+**Effective Date:** 4 November 2026<br>
+**Last Updated:** 4 November 2026
 
 ---
 
@@ -175,32 +175,23 @@ If you contact us or request a demonstration of Entovist, we collect the informa
 
 ### IONOS
 
-We use IONOS as our hosting and infrastructure provider.
+We use IONOS as our hosting, infrastructure, and object storage provider. IONOS stores uploaded documents and user profile images and serves as a backup destination for database and infrastructure configuration backups.
 
 IONOS may process:
 
 - Server and application logs
 - IP addresses
 - Database storage
+- Uploaded documents and images
+- Backup data
+- Technical metadata required to provide storage and backup services
 - Security and monitoring information
 
 Further information is available in the [IONOS Privacy Policy](https://www.ionos.de/terms-gtc/terms-privacy/).
 
-### Amazon Web Services (Amazon S3)
-
-We use Amazon S3 for storage of uploaded documents and user profile images, and as a backup destination for database and infrastructure configuration backups.
-
-Amazon S3 may process:
-
-- Uploaded documents and images
-- Backup data
-- Technical metadata required to provide storage and backup services
-
-Further information is available in the [AWS Privacy Notice](https://aws.amazon.com/privacy/).
-
 ### Cloudflare
 
-We use Cloudflare for content delivery, traffic routing, performance optimization, and protection against malicious traffic and abuse.
+We use Cloudflare for content delivery, traffic routing, performance optimization, protection against malicious traffic and abuse, and Cloudflare Turnstile CAPTCHA verification. Turnstile protects registration, login, password reset, and contact forms from spam and automated abuse.
 
 Cloudflare may process:
 
@@ -208,6 +199,7 @@ Cloudflare may process:
 - Request and response metadata
 - Browser and device information
 - Security and performance data
+- Turnstile verification tokens
 
 Further information is available in the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
@@ -262,21 +254,6 @@ Geoapify may process:
 Entovist does not use Geoapify for house or street address lookup.
 
 Further information is available in the [Geoapify Privacy Policy](https://www.geoapify.com/privacy-policy/).
-
-### TrustSig Anti-Bot Protection
-
-TrustSig is used to protect registration, login, password reset, and contact forms from spam and abuse.
-
-Data processed may include:
-
-- IP address
-- Request timestamp
-- Browser information
-- Device information
-- Verification tokens
-
-Legal basis: Article 6(1)(f) GDPR (legitimate interest).
-Further information is available in the [TrustSig Privacy Policy](https://trustsig.eu/privacy/).
 
 ### Mailjet
 
