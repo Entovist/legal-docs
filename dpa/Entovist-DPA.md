@@ -2,9 +2,9 @@
 document_id: ENT-DPA
 title: Data Processing Agreement (DPA)
 subtitle: Pursuant to Article 28 GDPR
-version: 1.1.0
-effective_date: 2026-06-28
-last_updated: 2026-06-28
+version: 1.2.0
+effective_date: 2026-11-04
+last_updated: 2026-11-04
 owner: Mahdi Ghorban Pour - Digitexia
 product: Entovist
 status: Current
@@ -16,9 +16,9 @@ language: en
 **Pursuant to Article 28 GDPR**
 
 **Document ID:** ENT-DPA  
-**Version:** 1.1.0<br>
-**Effective Date:** 28 June 2026<br>
-**Last Updated:** 28 June 2026<br>
+**Version:** 1.2.0<br>
+**Effective Date:** 4 November 2026<br>
+**Last Updated:** 4 November 2026<br>
 **Status:** Current
 
 ---
@@ -403,13 +403,11 @@ The Controller grants general authorization for the following Sub-Processors eng
 
 | Provider                                  | Location                                              | Purpose                                                                                                                                           |
 | ----------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| IONOS SE                                  | Germany / European Union                              | Hosting infrastructure, virtual servers, databases, and operation of the Entovist platform                                                        |
-| Amazon Web Services EMEA SARL / Amazon S3 | Luxembourg / European Union                           | Storage of uploaded documents and user profile images; backup destination for database and infrastructure configuration backups                    |
-| Cloudflare, Inc.                          | Global Services / EU Data Processing where applicable | DNS services, content delivery network (CDN), website security, web application firewall (WAF), bot protection, and DDoS mitigation               |
+| IONOS SE                                  | Germany / European Union                              | Hosting infrastructure, virtual servers, databases, object storage for uploaded documents and user profile images, and backup storage              |
+| Cloudflare, Inc.                          | Global Services / EU Data Processing where applicable | DNS services, content delivery network (CDN), website security, web application firewall (WAF), Cloudflare Turnstile CAPTCHA, and DDoS mitigation |
 | Stripe Payments Europe, Ltd.              | Ireland / European Union                              | Subscription billing, payment processing, invoice management, and payment-related customer data                                                   |
 | Mailjet SAS                               | France / European Union                               | Delivery of transactional emails, including account invitations, password reset emails, account notifications, and service-related communications |
 | Google Ireland Limited (Google Analytics) | Ireland / European Union                              | Analytics and usage statistics for the public marketing website only; not used within the authenticated Entovist application                      |
-| TrustSig                                  | European Union                                        | Anti-bot protection, abuse prevention, login protection, registration protection, and contact form security                                       |
 
 The Processor shall ensure that all Sub-Processors are contractually bound to implement appropriate technical and organizational measures and to process personal data in accordance with applicable data protection laws.
 

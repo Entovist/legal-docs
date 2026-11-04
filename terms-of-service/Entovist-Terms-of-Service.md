@@ -1,9 +1,9 @@
 ---
 document_id: ENT-TOS
 title: Entovist Terms of Service
-version: 1.1.0
-effective_date: 2026-06-28
-last_updated: 2026-06-28
+version: 1.2.0
+effective_date: 2026-11-04
+last_updated: 2026-11-04
 owner: Mahdi Ghorban Pour - Digitexia
 status: Current
 ---
@@ -11,9 +11,9 @@ status: Current
 # Terms of Service
 
 **Document ID:** ENT-TOS<br>
-**Version:** 1.1.0<br>
-**Effective Date:** 28 June 2026<br>
-**Last Updated:** 28 June 2026
+**Version:** 1.2.0<br>
+**Effective Date:** 4 November 2026<br>
+**Last Updated:** 4 November 2026
 
 Entovist is a software product operated by Mahdi Ghorban Pour - Digitexia ("Digitexia"). These Terms of Service govern the use of Entovist by the company, organization, or other legal entity that enters into a subscription for Entovist (the "Customer"). By creating an account or subscribing on behalf of the Customer, the person completing the registration or subscription confirms that they are authorized to bind the Customer to these Terms of Service.
 
@@ -185,13 +185,11 @@ Entovist may rely on third-party service providers for hosting, storage, backups
 These currently include:
 
 - IONOS
-- Amazon Web Services / Amazon S3
-- Cloudflare
+- Cloudflare (including Cloudflare Turnstile)
 - Stripe
 - Mailjet
 - Google Analytics
 - Geoapify
-- TrustSig
 
 The use of such providers is described in the Privacy Policy and, where applicable, the Data Processing Agreement.
 
